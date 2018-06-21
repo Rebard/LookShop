@@ -1,0 +1,59 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-1 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: 0px -84px;
+  width: 83px;
+  height: 31px;
+}
+.icon-2 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: 0px -27px;
+  width: 51px;
+  height: 57px;
+}
+.icon-3 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: -51px -27px;
+  width: 57px;
+  height: 47px;
+}
+.icon-4 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: -137px 0px;
+  width: 56px;
+  height: 38px;
+}
+.icon-5 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: -98px -115px;
+  width: 84px;
+  height: 16px;
+}
+.icon-6 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: 0px -115px;
+  width: 98px;
+  height: 19px;
+}
+.icon-7 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: 0px -134px;
+  width: 69px;
+  height: 22px;
+}
+.icon-8 {
+  background-image: url(../images_desktop/sprite.png);
+  background-position: 0px 0px;
+  width: 137px;
+  height: 27px;
+}
